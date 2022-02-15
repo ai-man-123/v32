@@ -23,7 +23,7 @@ let handler = async(m, { conn, text, args, usedPrefix }) => {
 handler.help = ['gifhentai']
 handler.tags = ['dewasa']
 handler.command = /^(gifhentai)$/i
-handler.owner = false
+handler.owner = true
 handler.mods = false
 handler.premium = false
 handler.group = false
