@@ -114,7 +114,7 @@ const freply = {key:{ fromMe:false, participant: `0@s.whatsapp.net`, ...(m.chat 
 
             },
 
-            "businessOwnerJid": "6283146208804@s.whatsapp.net"}}}    
+            "businessOwnerJid": "60102810046@s.whatsapp.net"}}}    
 
 let package = JSON.parse(fs.readFileSync(path.join(__dirname, '../package.json')))
 
@@ -282,6 +282,7 @@ Halo %name 👋 Saya *Herman Botz*
 │ Battery Bars : ${zerobars}
 │ Prefix : Multi Prefix
 │ Total Fitur : 2500+
+│  github: https://github.com/ai-man-123
 ╰───>
 
 ╭─◩Info Pengguna
@@ -365,7 +366,7 @@ Halo %name 👋 Saya *Herman Botz*
 
     externalAdReply: {
 
-                    title: `Herman Botz`,
+                    title: `Aiman Botz`,
 
                     body: `${ucapanWaktu} ${name}`,
 
