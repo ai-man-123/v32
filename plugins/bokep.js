@@ -10,7 +10,7 @@ handler.help = ['bokep'].map(v => v + ' ')
 handler.tags = ['dewasa']
 
 handler.command = /^(bokep)$/i
-handler.owner = false
+handler.owner = true
 handler.mods = false
 handler.premium = false
 handler.group = false
