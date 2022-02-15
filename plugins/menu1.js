@@ -114,7 +114,7 @@ const freply = {key:{ fromMe:false, participant: `0@s.whatsapp.net`, ...(m.chat 
 
             },
 
-            "businessOwnerJid": "6287834993722@s.whatsapp.net"}}}    
+            "businessOwnerJid": "60102820046@s.whatsapp.net"}}}    
 
 let package = JSON.parse(fs.readFileSync(path.join(__dirname, '../package.json')))
 
@@ -392,7 +392,7 @@ Halo %name :)
 
     externalAdReply: {
 
-                    title: `Herman Botz`,
+                    title: `Aiman Botz`,
 
                     body: `${ucapanWaktu} ${name}`,
 
